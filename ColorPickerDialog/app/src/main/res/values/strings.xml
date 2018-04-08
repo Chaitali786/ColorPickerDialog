@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorPickerDialog</string>
+    <string name="title_activity_color_picker_dialog">ColorPickerDialog</string>
+</resources>
